@@ -1,2 +1,2 @@
-redis:6.2.14
+mysql:8.0.29-oracle
 
