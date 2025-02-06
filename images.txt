@@ -1,2 +1,1 @@
-mysql:8.0.29-oracle
-
+jumpserver/jms_all:v4.6.0
