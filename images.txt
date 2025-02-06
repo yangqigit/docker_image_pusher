@@ -1,1 +1,1 @@
-python:alpine3.19
+redis:6.2.14
