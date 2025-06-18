@@ -1,1 +1,1 @@
-apache/apisix:latest
+apache/apisix:3.11.0-redhat
