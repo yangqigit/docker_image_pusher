@@ -1,1 +1,1 @@
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20230407
+agent/milvus:v2.5
